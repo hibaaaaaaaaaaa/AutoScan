@@ -1,0 +1,10 @@
+opencv-python
+numpy
+scikit-learn
+pillow
+PySide6
+ultralytics
+pydantic
+
+# pytesseract
+# transformers
